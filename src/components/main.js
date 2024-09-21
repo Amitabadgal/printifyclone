@@ -9,11 +9,11 @@ const Main = () => {
 
   const photos = [
     
-    { url: '/2.jpg', caption: 'Kids Tshirt' },
-    { url: '/3.jpg', caption: 'Cup' },
-    { url: '/5.jpg', caption: 'Bag' },
-    { url: '/6.jpg', caption: 'Sticker' },
-    { url: '/8.jpg', caption: 'Hoodies' },
+    { url: './2.jpg', caption: 'Kids Tshirt' },
+    { url: './3.jpg', caption: 'Cup' },
+    { url: './5.jpg', caption: 'Bag' },
+    { url: './6.jpg', caption: 'Sticker' },
+    { url: './8.jpg', caption: 'Hoodies' },
   ];
 
   const scrollLeft = () => {
