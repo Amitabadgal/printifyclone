@@ -38,9 +38,7 @@ const Navbar = () => {
         
         <div className="hidden md:flex space-x-6 items-center">
         <div className="font-protest text-4xl font-bold ml-32">Printify</div>
-          <a href="#" className="text-gray-700 hover:text-customPurple underline">
-            Catalog
-          </a>
+          <a href="#" className="text-gray-700 hover:text-customPurple underline"> Catalog</a>
 
          
           <div className="relative group">
